@@ -12,7 +12,7 @@ router.get("/me", authMiddleware, authController.AuthMe);
 router.get("/logout", authController.AuthLogout);
 
 //Payment
-router.post("/create-transaction", paymentController.createOrder);
-router.
+// router.post("/create-transaction", paymentController.createOrder);
+// router.
 
 export default router;
