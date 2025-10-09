@@ -1,7 +1,7 @@
 import express from "express";
 import authController from "../controller/auth.controller.js";
 import { authMiddleware } from "../middleware/authMiddleware.js";
-import paymentController from "../controller/payment.controller.js";
+// import paymentController from "../controller/payment.controller.js";
 
 const router = express.Router();
 
