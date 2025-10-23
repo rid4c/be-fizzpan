@@ -8,3 +8,4 @@ export const environment = {
   MIDTRANS_SERVER_KEY: process.env.MIDTRANS_SERVER_KEY,
   MIDTRANS_CLIENT_KEY: process.env.MIDTRANS_CLIENT_KEY,
 };
+// akV0HqKBBA80XHBj
